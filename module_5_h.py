@@ -73,7 +73,6 @@ class UrTube:
                 print('конец видио.')
                 video.time_now = 0
                 return
-        print('видио не найдено.')
 
 ur = UrTube()
 
